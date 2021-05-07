@@ -1,4 +1,4 @@
-# auras-fnf-shit
+# Aura's FNF shit
 
 heyo, aurazona here.
 
