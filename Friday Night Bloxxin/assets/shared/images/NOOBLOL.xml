@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOOBLOL.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NoobDown0000" x="0" y="0" width="281" height="343" frameX="0" frameY="-15" frameWidth="281" frameHeight="358"/>
+	<SubTexture name="NoobDown0001" x="281" y="0" width="268" height="358" frameX="0" frameY="0" frameWidth="281" frameHeight="358"/>
+	<SubTexture name="NoobDown0002" x="549" y="0" width="275" height="345" frameX="0" frameY="-13" frameWidth="281" frameHeight="358"/>
+	<SubTexture name="NoobIdle0000" x="824" y="0" width="362" height="336" frameX="-44" frameY="-12" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0001" x="1186" y="0" width="378" height="338" frameX="-34" frameY="-10" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0002" x="1564" y="0" width="393" height="340" frameX="-24" frameY="-8" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0003" x="1957" y="0" width="404" height="343" frameX="-15" frameY="-5" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0004" x="2361" y="0" width="413" height="345" frameX="-7" frameY="-3" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0005" x="2774" y="0" width="418" height="347" frameX="0" frameY="-1" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0006" x="3192" y="0" width="414" height="348" frameX="-5" frameY="0" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0007" x="3606" y="0" width="411" height="347" frameX="-9" frameY="-1" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0008" x="0" y="358" width="405" height="345" frameX="-14" frameY="-3" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0009" x="405" y="358" width="399" height="343" frameX="-19" frameY="-5" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0010" x="804" y="358" width="391" height="342" frameX="-25" frameY="-6" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0011" x="1195" y="358" width="382" height="340" frameX="-31" frameY="-8" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0012" x="1577" y="358" width="373" height="337" frameX="-37" frameY="-11" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobIdle0013" x="1950" y="358" width="362" height="336" frameX="-44" frameY="-12" frameWidth="420" frameHeight="348"/>
+	<SubTexture name="NoobLeft0000" x="2312" y="358" width="281" height="342" frameX="0" frameY="-23" frameWidth="289" frameHeight="365"/>
+	<SubTexture name="NoobLeft0001" x="2593" y="358" width="288" height="353" frameX="0" frameY="-12" frameWidth="289" frameHeight="365"/>
+	<SubTexture name="NoobLeft0002" x="2881" y="358" width="289" height="365"/>
+	<SubTexture name="NoobRight0000" x="3170" y="358" width="305" height="350" frameX="0" frameY="-16" frameWidth="305" frameHeight="366"/>
+	<SubTexture name="NoobRight0001" x="3475" y="358" width="299" height="354" frameX="0" frameY="-12" frameWidth="305" frameHeight="366"/>
+	<SubTexture name="NoobRight0002" x="3774" y="358" width="291" height="358" frameX="0" frameY="-8" frameWidth="305" frameHeight="366"/>
+	<SubTexture name="NoobRight0003" x="0" y="723" width="298" height="362" frameX="0" frameY="-4" frameWidth="305" frameHeight="366"/>
+	<SubTexture name="NoobRight0004" x="298" y="723" width="304" height="366" frameX="0" frameY="0" frameWidth="305" frameHeight="366"/>
+	<SubTexture name="NoobUp0000" x="602" y="723" width="324" height="372" frameX="0" frameY="-13" frameWidth="325" frameHeight="385"/>
+	<SubTexture name="NoobUp0001" x="926" y="723" width="324" height="375" frameX="0" frameY="-10" frameWidth="325" frameHeight="385"/>
+	<SubTexture name="NoobUp0002" x="1250" y="723" width="324" height="378" frameX="0" frameY="-7" frameWidth="325" frameHeight="385"/>
+	<SubTexture name="NoobUp0003" x="1574" y="723" width="325" height="380" frameX="0" frameY="-5" frameWidth="325" frameHeight="385"/>
+	<SubTexture name="NoobUp0004" x="1899" y="723" width="325" height="383" frameX="0" frameY="-2" frameWidth="325" frameHeight="385"/>
+	<SubTexture name="NoobUp0005" x="2224" y="723" width="325" height="385"/>
+</TextureAtlas>

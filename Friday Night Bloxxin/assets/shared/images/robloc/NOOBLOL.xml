@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOOBLOL.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NoobDown0000" x="0" y="0" width="281" height="343" frameX="-50" frameY="-50"/>
+	<SubTexture name="NoobIdle0000" x="281" y="0" width="349" height="336" frameX="-50" frameY="-50"/>
+	<SubTexture name="NoobLeft0000" x="630" y="0" width="281" height="342" frameX="-50" frameY="-50"/>
+	<SubTexture name="NoobRight0000" x="911" y="0" width="305" height="350" frameX="-50" frameY="-50"/>
+	<SubTexture name="NoobUp0000" x="1216" y="0" width="324" height="372" frameX="-50" frameY="-50"/>
+</TextureAtlas>
