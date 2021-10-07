@@ -2,7 +2,7 @@
 
 heyo, aurazona here.
 
-this repo is where i'll be storing all of my fnf shit, so stuff like source code, assets, etc.
+this repo is where i'll be storing all my scrapped fnf shit, so stuff like source code, assets, etc.
 
 feel free to have a peek at my code to see how i did certain things, etc.
 
